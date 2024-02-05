@@ -1,7 +1,7 @@
 body {
   background-color: var(--prime-white-background);
   color: var(--prime-color);
-  font-family: "Roboto", sans-serif;
+  font-family: $primaryFontFamily;
 }
 header {
   border-bottom: 1px solid #ececec;

@@ -10,7 +10,7 @@
   padding-bottom: 25px;
   text-decoration: none;
   color: var(--logo-blackcolor);
-  font-family: "Raleway", sans-serif;
+  font-family: $secondaryFontFamily;
 
   @include fonts(26px, 700, 1.2, 0.03em);
 }

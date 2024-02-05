@@ -24,7 +24,7 @@
   margin-bottom: 20px;
   text-decoration: none;
   color: var(--logo-whitecolor);
-  font-family: "Raleway", sans-serif;
+  font-family: $secondaryFontFamily;
 
   @include fonts(26px, 700, 1.2, null);
 }
